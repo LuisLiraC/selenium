@@ -1,0 +1,6 @@
+*.exe
+*.pdf
+*.zip
+venv
+reports
+__pycache__
